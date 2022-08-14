@@ -32,9 +32,19 @@
 <code>[https://yandex.ru/images/search?text=горы%20300%20на%20300&from=tabbar&pos=18&rpt=simage&img_url=http%3A%2F%2Fdgdesign.ru%2Fuploads%2Fposts%2F2016-04%2F1459944787_shapka-sayta-goy.jpg&lr=14][Горы]
 </code>
 
+<<<<<<< HEAD
 ## Создание коммита
 
 Для Создания нового комита в текущей ветке введите команду
 '''
     git commit -m "Commit message"
+=======
+
+## Создание новый ветки
+
+
+Для создания новой ветки введите комманду
+'''
+    git branch <имя ветки>
+>>>>>>> feather-one
 '''
