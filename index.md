@@ -38,3 +38,9 @@
 '''
     git commit -m "Commit message"
 '''
+
+
+## Создание ветки strike-one
+'''
+    git branch <имя файла>
+'''
